@@ -1,0 +1,19 @@
+{
+  "Maruti Suzuki Swift": ["Maruti Suzuki Swift front view", "Swift side view", "Swift rear view", "Swift on road"],
+  "Hyundai Creta": ["Hyundai Creta front", "Creta side profile", "Creta rear", "Creta parked", "creta on road"],
+  "Mahindra Thar": ["Mahindra Thar front", "Thar side", "Thar off-road", "Thar rear view", "Thar on road"],
+  "Tata Nexon": ["Tata Nexon front", "Nexon side", "Nexon EV rear", "Nexon on highway", "Nexon on road"],
+  "Kia Seltos": ["Kia Seltos front", "Seltos rear", "Seltos on road", "Seltos side profile"],
+  "Honda City": ["Honda City front", "City rear", "City driving", "City 3/4 angle", "honda city on road"],
+  "Toyota Fortuner": ["Toyota Fortuner front", "Fortuner 4x4", "Fortuner off-road", "Fortuner side view", "Fortuner rear view", "Fortuner on road"],
+  "BMW X5": ["BMW X5 front", "X5 rear", "X5 driving", "BMW X5 side angle", "BMW X5 on road"],
+  "Hyundai i20": ["Hyundai i20 front", " Hyundai i20 side view", "Hyundai i20 rear", "Hyundai i20 parked","Hyundai on road"],
+  "Maruti Suzuki Baleno": ["Baleno front", "Baleno side", "Baleno rear", "Baleno on highway", " Baleno on road"],
+  "Maruti Suzuki Alto" : ["Maruti Alto front view", "Maruti Alto side view", "Maruti Alto rear view", "Maruti Alto on highway", "Maruti Alto on road"],
+  "Maruti Suzuki Brezza" : ["Maruti Brezza front view", "Maruti Brezza side view", "Maruti Brezza rear view", "Brezza on highway", "Brezza on road"],
+  "Maruti Suzuki WagonR" : ["Maruti WagonR front view", "Maruti WagonR side view", "Maruti WagonR rear view", "Maruti WagonR on highway", "Maruti WagonR on road"],
+  "Tata Motors Harrier" : ["Tata Motors Harrier front view", "Tata Motors Harrier side view", "Tata Motors Harrier rear view", "Tata Motors Harrier on highway", "Tata Motors Harrier on road"],
+  "Mahindra XUV500" : ["Mahindra XUV500 front view", "Mahindra XUV500 side view", "Mahindra XUV500 rear view", "Mahindra XUV500 on highway", "Mahindra XUV500 on road"],
+  "Toyota Innova" : ["Toyota Innova front view", "Toyota Innova side view", "Toyota Innova rear view", "Toyota Innova on highway", "Toyota Innova on road"],
+  "Ford Mustang" : ["Ford Mustang front view", "Ford Mustang side view", "Ford Mustang rear view", "Ford Mustang on highway", "Ford Mustang on road"]
+}

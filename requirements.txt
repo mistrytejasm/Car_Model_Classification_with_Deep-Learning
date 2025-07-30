@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+streamlit
+torchinfo
+# !pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
