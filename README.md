@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: TejasH Mistry
 - **Email**: mistrytejasm@gmail.com
-- **LinkedIn**: [[Your LinkedIn Profile]](https://www.linkedin.com/in/tejash-mistry-7789b9184/)
+- **LinkedIn**: https://www.linkedin.com/in/tejash-mistry-7789b9184/
 
 **🔧 Built with passion for robust AI systems that work reliably in real-world scenarios!**
 
